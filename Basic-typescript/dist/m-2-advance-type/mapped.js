@@ -1,2 +1,3 @@
 "use strict";
-console.log(b);
+const arrayOfNumber = [2, 5, 6];
+const area1 = { height: 10, width: 10 };
